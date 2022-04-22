@@ -1,2 +1,3 @@
 # Carvalhos
-projeto Landing Page responsiva para a empresa Carvalho's Cosméticos, feito em HTML e CSS.
+A Landing Page responsive project for Carvalho's Cosméticos, made in HTML and CSS.
+
